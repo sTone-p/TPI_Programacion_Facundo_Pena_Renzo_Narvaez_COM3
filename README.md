@@ -62,6 +62,4 @@ Cantidad de países por continente:
 # Enlaces de Entrega
 
 # Video demostrativo:
-
-
-# PDF:
+https://youtu.be/BTyFEYHSK30
